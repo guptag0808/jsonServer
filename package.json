@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server":"node index.js"
+    "server": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/guptag0808/jsonServer#readme",
   "dependencies": {
+    "json-serve": "^0.1.0",
     "json-server": "^0.17.3"
   }
 }
